@@ -1,0 +1,33 @@
+{
+    "PlayerData": [
+        {
+            "ID": 1001,
+            "Forename": "Priyanshu",
+            "Surname": "Dhaka",
+            "ImageURL": ""
+        },
+        {
+            "ID": 1002,
+            "Forename": "Dhaka",
+            "Surname": "Ji",
+            "ImageURL": ""
+        }
+    ],
+    "ClubData": [
+        {
+            "ID": 2001,
+            "Name": "Dhaka FC",
+            "ShortName": "DHA",
+            "ImageURL": ""
+        }
+    ],
+    "LeagueData": [
+        {
+            "ID": 28,
+            "Name": "Premier League",
+            "ImageURL": ""
+        }
+    ],
+    "CupData": [],
+    "StadiumData": []
+}
